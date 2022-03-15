@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: lightgreen;
+}
+
+#game {
+    width: 100%;
+    height: 800px;
+    background-color: lightcyan;
+}
+
+#chat {
+    width: 100%;
+    height: 800px;
+    background-color: lightgoldenrodyellow;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#myCarousel {
+    height: 450px;
+    margin-top: 100px;
+}
+
+#myCarousel img {
+    width: 450px;
+    height: 450px;
+}
